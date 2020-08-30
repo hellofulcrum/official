@@ -83,7 +83,8 @@ body.active #Banner .blacksection::before  {
 }
 body.active #Banner h1  {
 	opacity: 1;
-	right: 15%;
+	/* right: 15%; */
+	left: 50%;
 	transition: all 0.5s;
 	-ms-transition: all 0.5s;
 	-webkit-transition-delay: 1.5s;
@@ -98,7 +99,7 @@ body.active #Banner h1  {
   margin: 0;
   padding: 0;
   text-align: right;
-  right: 0%;
+  /* right: 0%; */
   top: 50%;
   transform: translateY(-50%);
   -ms-transform: translateY(-50%);
