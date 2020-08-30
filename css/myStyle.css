@@ -1,0 +1,61 @@
+body{
+  background-color: #000;
+}
+div.news{
+  width: auto;
+  margin: auto;
+}
+
+div.testi-wrapper{
+    width: 350px;;
+    margin: auto;
+}
+
+.sample-demo {
+  margin: 0 auto;
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%;
+  margin-top: -28%;
+}
+.sample-demo iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+.content {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  z-index: 1;
+  color: #fff;
+  font-size: 200%;
+  top: 50%;
+  transform: translateY(-50%);
+  overflow: hidden;
+}
+
+.each-services{
+    width: 350px;
+    margin: auto;
+}
+
+#News h2{
+  color: #fff;
+    text-align: center;
+    font: 68px/125% 'Futura PT book';
+    margin: 40px auto;
+}
+
+#About h2{
+  color: #fff;
+    text-align: center;
+    font: 68px/125% 'Futura PT book';
+    margin: 40px auto;
+}
+
+p{
+  color: #fff;
+}
